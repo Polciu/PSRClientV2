@@ -1,0 +1,14 @@
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\obj\Debug\PSRClientV2.csprojAssemblyReference.cache
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\obj\Debug\PSRClientV2.csproj.CoreCompileInputs.cache
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\PSRClientV2.exe.config
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\PSRClientV2.exe
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\PSRClientV2.pdb
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\Newtonsoft.Json.dll
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\Newtonsoft.Json.pdb
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\Newtonsoft.Json.xml
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\obj\Debug\PSRClientV2.csproj.CopyComplete
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\obj\Debug\PSRClientV2.exe
+D:\PSK\PSR\Projekt\Version2\ClientConsole\PSRClientV2\PSRClientV2\obj\Debug\PSRClientV2.pdb
